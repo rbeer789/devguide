@@ -113,8 +113,8 @@ Setting up your name and email address
 
 ::
 
-   $ git config --global user.name "Your Name"
-   $ git config --global user.email your.email@example.com
+   $ git config --global user.name "vtbcreative"
+   $ git config --global user.email your.newrbeer24@gmail.com
 
 The ``--global`` flag sets these parameters globally while
 the ``--local`` flag sets them only for the current project.
